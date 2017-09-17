@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">공석 알리미</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_arduinocode">Show Arduino code</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_settings"></string>
+</resources>
